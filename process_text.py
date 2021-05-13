@@ -10,10 +10,13 @@ import unicodedata as ud
 
 # %%
 def get_id(bn):
+    # Lấy các cụm từ có dạng 'BNxxxx' hoặc 'BNxxxx-BNxxxx'
     ids = re.findall(r'BN\w+-BN\w+|BN\w+',bn)
+    # Bỏ 'BN' ra để lấy số
     ids = [i.replace('BN','') for i in ids]
 
     id_list = []
+    # Với cụm bệnh nhân thì tạo list
     for i in ids:
         numeric_ids = i.split('-')
         if len(numeric_ids)==2:
@@ -40,18 +43,21 @@ get_cbyt = lambda bn: int('cán bộ y tế' in bn.lower() or 'nhân viên y t�
 
 # %%
 def get_location(don_vi_hanh_chinh, bn):
+    # Lọc lấy cụm câu có dạng 'địa chỉ...'
     regex_loc = re.compile('|'.join([kw.upper()+' (.*?)'+stop for kw in ['địa chỉ'] for stop in ['\\.',';',':']]))
     loc_array = re.findall(regex_loc, bn.upper())
     if not loc_array:
         return np.nan 
+    # Thêm dấu chấm để đánh dấu là hết câu, đỡ phải thêm regex mới
     bn_loc = ''.join(loc_array[0])+'.'
 
+    # Lọc cụm từ chỉ đơn vị hành chính cần thiết (vd: Quận Đồ Sơn)
     regex = re.compile('|'.join([don_vi_hanh_chinh.upper()+' (.*?)'+stop for stop in [',','\\.',';',':']]))
-    # Nếu ghi nhận 2 địa điểm thì chọn địa điểm đầu, vì sẽ nêu địa chỉ trước lịch sử di chuyển
     loc_array = re.findall(regex, bn_loc)
     if not loc_array:
         return np.nan 
     loc_text = ''.join(loc_array[0])
+    # Bỏ dấu ở cuối cụm từ
     loc = re.split(r';|,|\.|:',loc_text)
     return loc[0]
 
@@ -70,10 +76,12 @@ def get_quoctich(bn):
 
 # %%
 def get_cluster_source(bn):
+    # Check xem có phải là ca từ bệnh viện NDTU hay nhập cảnh không đã
     if 'điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh'.lower() not in bn.lower() and 'nhiệt đới Trung ương cơ sở Đông Anh'.lower() in bn.lower():
         return 'Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh', 'BV'
     elif 'nhập cảnh'.lower() in bn.lower():
         return 'Nhập cảnh','Nhập cảnh'
+    # Không phải thì tìm xem có thuộc ổ dịch hay là F1 của ai không
     regex = re.compile('|'.join([kw+' (.*?)'+stop for kw in ['F1',ud.normalize('NFC','Ổ DỊCH')] for stop in [',','\\.',';',':']]))
     loc_array = re.findall(regex, ud.normalize('NFC',bn.upper()))
     if not loc_array:
@@ -81,11 +89,13 @@ def get_cluster_source(bn):
     loc_text = ''.join(loc_array[0])
     loc = re.split(r';|,|\.|:',loc_text)[0]
     normalized_loc = ud.normalize('NFC',loc)
+    # Bỏ bớt mấy từ chung chung, giữ lại tên cụm thôi
     rm_words = [ud.normalize('NFC',w) for w in ['CỦA ','VỚI ','LIÊN QUAN ', 'TỚI ', 'ĐẾN ', ' TRƯỚC ĐÓ']]
     for w in rm_words:
         normalized_loc = normalized_loc.replace(w,'') 
     return normalized_loc,'Tiếp xúc gần/Đi qua vùng dịch'
 
+# Có 'nhập cảnh' trong thông tin thì đánh dấu là ca nhập cảnh
 get_group = lambda bn: 'Nhập cảnh' if 'nhập cảnh'.lower() in bn.lower() else 'CỘng đồng'
 
 
