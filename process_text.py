@@ -35,7 +35,7 @@ def get_age(bn):
         return np.nan
     return re.search(r'[0-9]+',kw[0]).group()
     
-get_cbyt = lambda bn: int('cán bộ y tế' in bn or 'nhân viên y tế' in bn.lower())
+get_cbyt = lambda bn: int('cán bộ y tế' in bn.lower() or 'nhân viên y tế' in bn.lower())
 
 
 # %%
