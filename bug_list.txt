@@ -1,0 +1,6 @@
+_Với các dòng thông báo 1 chùm ca bệnh ở bệnh viện sẽ mặc định tất cả là CBYT. Cần kiểm tra lại các ca được đánh dấu CBYT=1.
+
+_Thuật toán có thể đọc chữ Thị Xã thành Xã, làm cho địa danh bị thêm vào cột Xã.
+
+1 số đề xuất upgrade:
+_Web crawler để lấy thêm thông tin bệnh nhân
