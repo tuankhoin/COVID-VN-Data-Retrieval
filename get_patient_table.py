@@ -21,18 +21,19 @@ class PatientSpider(scrapy.Spider):
 
     def close(self, reason):
         df_out = pd.DataFrame(self.rows)[::-1]
-        df_out['Patient'] = df_out['Patient'].str[2:].replace({',':'', 'N':''}, regex=True)
+        df_out['Patient'] = df_out['Patient'].str[2:]
         df_out.to_csv(self.out,index=False)
         print("Hoàn tất. Dữ liệu đã được xuất ra file " + self.out)
 
     def parse(self, response):
         for patient in response.xpath('//*[@class="table table-striped table-covid19"]//tbody/tr'):
-            p_dict={'Patient': patient.xpath('td[1]//text()').extract_first().rstrip(),
+            p_dict={'Patient': patient.xpath('td[1]//text()').extract_first(),
                     'Age': patient.xpath('td[2]//text()').extract_first(),
                     'Location': patient.xpath('td[3]//text()').extract_first(),
                     'Status': patient.xpath('td[4]//text()').extract_first(),
                     'Nationality': patient.xpath('td[5]//text()').extract_first()}
             self.rows += [p_dict]
+
 
 
 # %%
