@@ -43,14 +43,6 @@ class PatientSpider(scrapy.Spider):
             if p_dict['Age']:
                 self.rows += [p_dict]
 
-        # next_page = /page-{}/ where {} number of page.
-        #next_page = response.xpath('//a[@data-tip="Next page"]/@href').extract_first()
-        #scrapy.Request(url='',callback=self.parse)
-        # next_page = https://sanet.st/page-{}/ where {} number of page.
-        #next_page = response.urljoin(next_page)
-
-
-
 # %%
 process = CrawlerProcess(get_project_settings())
 process.crawl(PatientSpider)
