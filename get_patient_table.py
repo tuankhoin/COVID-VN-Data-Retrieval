@@ -14,11 +14,14 @@ from scrapy.utils.project import get_project_settings
 class PatientSpider(scrapy.Spider):
     name = "patient_check"
     #start_urls = ['https://ncov.moh.gov.vn/web/guest/trang-chu']
-    start_urls = ['https://ncov.moh.gov.vn/web/guest/trang-chu?p_p_id=corona_trangchu_top_CoronaTrangchuTopPortlet_INSTANCE_RrVAbIFIPL7v&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_corona_trangchu_top_CoronaTrangchuTopPortlet_INSTANCE_RrVAbIFIPL7v_delta=100&_corona_trangchu_top_CoronaTrangchuTopPortlet_INSTANCE_RrVAbIFIPL7v_resetCur=false&_corona_trangchu_top_CoronaTrangchuTopPortlet_INSTANCE_RrVAbIFIPL7v_cur='+str(i) for i in range(1,10)]
+    start_urls = []
     rows = []
     out = 'MOH_PatientTable_' + date.today().strftime("%d_%m") + '.csv'
 
     def __init__(self):
+        n = input('Bạn muốn lấy bệnh nhân tới trang thứ mấy (100 bệnh nhân/trang)? ')
+        n_pages=int(n)
+        self.start_urls = ['https://ncov.moh.gov.vn/web/guest/trang-chu?p_p_id=corona_trangchu_top_CoronaTrangchuTopPortlet_INSTANCE_RrVAbIFIPL7v&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_corona_trangchu_top_CoronaTrangchuTopPortlet_INSTANCE_RrVAbIFIPL7v_delta=100&_corona_trangchu_top_CoronaTrangchuTopPortlet_INSTANCE_RrVAbIFIPL7v_resetCur=false&_corona_trangchu_top_CoronaTrangchuTopPortlet_INSTANCE_RrVAbIFIPL7v_cur='+str(i) for i in range(1,n_pages)]    
         logging.getLogger('scrapy').propagate = False
 
     def close(self, reason):
