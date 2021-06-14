@@ -1,0 +1,901 @@
+Patient,Age,Location,Status,Nationality
+BN10000	,3,Bắc Giang,Đang điều trị,Việt Nam
+BN10001	,60,Bắc Giang,Đang điều trị,Việt Nam
+BN10002,36,Bắc Giang,Đang điều trị,Việt Nam
+BN10003	,31,Bắc Giang,Đang điều trị,Việt Nam
+BN10004	,39,Bắc Giang,Đang điều trị,Việt Nam
+BN10005,22,Bắc Giang,Đang điều trị,Việt Nam
+BN10006	,22,Bắc Giang,Đang điều trị,Việt Nam
+BN10007	,22,Bắc Giang,Đang điều trị,Việt Nam
+BN10008,45,Bắc Giang,Đang điều trị,Việt Nam
+BN10009,22,Bắc Giang,Đang điều trị,Việt Nam
+BN10010,36,Bắc Giang,Đang điều trị,Việt Nam
+BN10011,31,Bắc Giang,Đang điều trị,Việt Nam
+BN10012	,23,Bắc Giang,Đang điều trị,Việt Nam
+BN10013,27,Bắc Giang,Đang điều trị,Việt Nam
+BN10014	,27,Bắc Giang,Đang điều trị,Việt Nam
+BN10015	,26,Bắc Giang,Đang điều trị,Việt Nam
+BN10016,33,Bắc Giang,Đang điều trị,Việt Nam
+BN10017,25,Bắc Giang,Đang điều trị,Việt Nam
+BN10018,26,Bắc Giang,Đang điều trị,Việt Nam
+BN10019,48,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10020,45,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10021,46,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10022	,45,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10023	,26,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10024,37,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10025,37,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10026	,53,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10027,21,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10028,19,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10029,38,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10030,11,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10031,7,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10032,40,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10033,48,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10034,38,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10035	,6,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10036,14,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10037,12,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10038	,11,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10039,67,Tiền Giang,Đang điều trị,Việt Nam
+BN10040	,27,Tiền Giang,Đang điều trị,Việt Nam
+BN10041	,40,Tiền Giang,Đang điều trị,Việt Nam
+BN10042,28,Tiền Giang,Đang điều trị,Việt Nam
+BN10043,46,Tiền Giang,Đang điều trị,Việt Nam
+BN10044	,25,Tiền Giang,Đang điều trị,Việt Nam
+BN10045,27,Tiền Giang,Đang điều trị,Việt Nam
+BN10046	,48,Tiền Giang,Đang điều trị,Việt Nam
+BN10047,28,Tiền Giang,Đang điều trị,Việt Nam
+BN10048,32,Tiền Giang,Đang điều trị,Việt Nam
+BN10049,9,Bắc Ninh,Đang điều trị,Việt Nam
+BN10050,23,Bắc Ninh,Đang điều trị,Việt Nam
+BN10051,24,Bắc Ninh,Đang điều trị,Việt Nam
+BN10052	,27,Bắc Giang,Đang điều trị,Việt Nam
+BN10053,54,Bắc Giang,Đang điều trị,Việt Nam
+BN10054	,12,Bắc Giang,Đang điều trị,Việt Nam
+BN10055,26,Bắc Giang,Đang điều trị,Việt Nam
+BN10056	,36,Bắc Giang,Đang điều trị,Việt Nam
+BN10057	,13,Bắc Giang,Đang điều trị,Việt Nam
+BN10058	,21,Bắc Giang,Đang điều trị,Việt Nam
+BN10059,24,Bắc Giang,Đang điều trị,Việt Nam
+BN10060,34,Bắc Giang,Đang điều trị,Việt Nam
+BN10061,21,Bắc Giang,Đang điều trị,Việt Nam
+BN10062,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10063,19,Bắc Giang,Đang điều trị,Việt Nam
+BN10064	,14,Bắc Giang,Đang điều trị,Việt Nam
+BN10065,20,Bắc Giang,Đang điều trị,Việt Nam
+BN10066,45,Bắc Giang,Đang điều trị,Việt Nam
+BN10067	,29,Bắc Ninh,Đang điều trị,Việt Nam
+BN10068	,33,Bắc Giang,Đang điều trị,Việt Nam
+BN10069	,14,Bắc Giang,Đang điều trị,Việt Nam
+BN10070	,32,Bắc Giang,Đang điều trị,Việt Nam
+BN10071	,26,Bắc Ninh,Đang điều trị,Việt Nam
+BN10072	,32,Bắc Giang,Đang điều trị,Việt Nam
+BN10073	,19,Bắc Ninh,Đang điều trị,Việt Nam
+BN10074	,37,Bắc Giang,Đang điều trị,Việt Nam
+BN10075,23,Bắc Ninh,Đang điều trị,Việt Nam
+BN10076,68,Bắc Ninh,Đang điều trị,Việt Nam
+BN10077,58,Bắc Ninh,Đang điều trị,Việt Nam
+BN10078	,35,Bắc Giang,Đang điều trị,Việt Nam
+BN10079,22,Bắc Ninh,Đang điều trị,Việt Nam
+BN10080	,36,Bắc Giang,Đang điều trị,Việt Nam
+BN10081,40,Bắc Giang,Đang điều trị,Việt Nam
+BN10082,64,Bắc Giang,Đang điều trị,Việt Nam
+BN10083	,3,Bắc Giang,Đang điều trị,Việt Nam
+BN10084,23,Bắc Giang,Đang điều trị,Việt Nam
+BN10085,37,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10086,44,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10087	,3,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10088	,18,Bắc Giang,Đang điều trị,Việt Nam
+BN10089,12,Bắc Giang,Đang điều trị,Việt Nam
+BN10090	,44,Bắc Giang,Đang điều trị,Việt Nam
+BN10091	,39,Bắc Giang,Đang điều trị,Việt Nam
+BN10092,15,Bắc Giang,Đang điều trị,Việt Nam
+BN10093,42,Bắc Giang,Đang điều trị,Việt Nam
+BN10094,57,Bắc Giang,Đang điều trị,Việt Nam
+BN10095	,5,Bắc Giang,Đang điều trị,Việt Nam
+BN10096,67,Bắc Giang,Đang điều trị,Việt Nam
+BN10097,20,Bắc Giang,Đang điều trị,Việt Nam
+BN10098,38,Bắc Giang,Đang điều trị,Việt Nam
+BN10099,60,Bắc Giang,Đang điều trị,Việt Nam
+BN10100,30,Bắc Giang,Đang điều trị,Việt Nam
+BN10101,21,Bắc Giang,Đang điều trị,Việt Nam
+BN10102,33,Bắc Giang,Đang điều trị,Việt Nam
+BN10103,31,Bắc Giang,Đang điều trị,Việt Nam
+BN10104	,2,Bắc Giang,Đang điều trị,Việt Nam
+BN10105,39,Bắc Giang,Đang điều trị,Việt Nam
+BN10106,27,Bắc Giang,Đang điều trị,Việt Nam
+BN10107	,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10108	,3,An Giang,Đang điều trị,Việt Nam
+BN10109	,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10110,35,Bắc Giang,Đang điều trị,Việt Nam
+BN10111,23,Bắc Giang,Đang điều trị,Việt Nam
+BN10112	,37,Bắc Giang,Đang điều trị,Việt Nam
+BN10113	,20,Bắc Giang,Đang điều trị,Việt Nam
+BN10114	,46,Bắc Giang,Đang điều trị,Việt Nam
+BN10115,34,Bắc Giang,Đang điều trị,Việt Nam
+BN10116	,14,Bắc Giang,Đang điều trị,Việt Nam
+BN10117,30,Bắc Giang,Đang điều trị,Việt Nam
+BN10118,66,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10119	,32,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10120,26,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10121	,18,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10122	,13,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10123,25,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10124	,24,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10125	,33,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10126,37,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10127,4,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10128,6,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10129,16,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10130,18,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10131,27,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10132,28,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10133,21,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10134,53,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10135,42,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10136,24,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10137	,26,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10138,30,Bắc Giang,Đang điều trị,Việt Nam
+BN10139,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10140,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10141	,40,Bắc Giang,Đang điều trị,Việt Nam
+BN10142,18,Bắc Giang,Đang điều trị,Việt Nam
+BN10143,8,Bắc Giang,Đang điều trị,Việt Nam
+BN10144	,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10145,33,Bắc Giang,Đang điều trị,Việt Nam
+BN10146,24,Bắc Giang,Đang điều trị,Việt Nam
+BN10147,10,Bắc Giang,Đang điều trị,Việt Nam
+BN10148	,35,Bắc Giang,Đang điều trị,Việt Nam
+BN10149	,30,Bắc Giang,Đang điều trị,Việt Nam
+BN10150	,33,Bắc Giang,Đang điều trị,Việt Nam
+BN10151	,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10152	,21,Bắc Giang,Đang điều trị,Việt Nam
+BN10153,26,Bắc Giang,Đang điều trị,Việt Nam
+BN10154,25,Bắc Giang,Đang điều trị,Việt Nam
+BN10155	,27,Bắc Ninh,Đang điều trị,Việt Nam
+BN10156,37,Bắc Giang,Đang điều trị,Việt Nam
+BN10157,20,Bắc Giang,Đang điều trị,Việt Nam
+BN10158	,31,Bắc Ninh,Đang điều trị,Việt Nam
+BN10159	,21,Bắc Ninh,Đang điều trị,Việt Nam
+BN10160	,29,Bắc Ninh,Đang điều trị,Việt Nam
+BN10161,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10162,26,Bắc Ninh,Đang điều trị,Việt Nam
+BN10163	,16,Bắc Giang,Đang điều trị,Việt Nam
+BN10164,25,Bắc Ninh,Đang điều trị,Việt Nam
+BN10165,32,Bắc Giang,Đang điều trị,Việt Nam
+BN10166	,28,Bắc Ninh,Đang điều trị,Việt Nam
+BN10167,48,Bắc Ninh,Đang điều trị,Việt Nam
+BN10168,26,Bắc Ninh,Đang điều trị,Việt Nam
+BN10169	,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10170,25,Bắc Ninh,Đang điều trị,Việt Nam
+BN10171,42,Bắc Giang,Đang điều trị,Việt Nam
+BN10172,1,Bắc Ninh,Đang điều trị,Việt Nam
+BN10173,1,Bắc Ninh,Đang điều trị,Việt Nam
+BN10174,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10175	,67,Bắc Giang,Đang điều trị,Việt Nam
+BN10176,19,Bắc Ninh,Đang điều trị,Việt Nam
+BN10177	,28,Bắc Ninh,Đang điều trị,Việt Nam
+BN10178	,49,Bắc Giang,Đang điều trị,Việt Nam
+BN10179	,44,Bắc Giang,Đang điều trị,Việt Nam
+BN10180,35,Bắc Giang,Đang điều trị,Việt Nam
+BN10181	,33,Bắc Giang,Đang điều trị,Việt Nam
+BN10182,44,Bắc Giang,Đang điều trị,Việt Nam
+BN10183	,4,Bắc Giang,Đang điều trị,Việt Nam
+BN10184,32,Bắc Giang,Đang điều trị,Việt Nam
+BN10185,36,Bắc Giang,Đang điều trị,Việt Nam
+BN10186,27,Bắc Ninh,Đang điều trị,Việt Nam
+BN10187	,41,Bắc Giang,Đang điều trị,Việt Nam
+BN10188	,11,Bắc Giang,Đang điều trị,Việt Nam
+BN10189	,10,Bắc Giang,Đang điều trị,Việt Nam
+BN10190,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10191	,31,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10192,31,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10193,24,Bắc Giang,Đang điều trị,Việt Nam
+BN10194,34,Bắc Giang,Đang điều trị,Việt Nam
+BN10195	,34,Bắc Giang,Đang điều trị,Việt Nam
+BN10196	,18,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10197,41,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10198,13,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10199,5,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10200,70,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10201,45,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10202	,27,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10203	,22,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10204,74,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10205,72,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10206,20,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10207	,35,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10208	,33,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10209	,38,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10210	,28,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10211,41,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10212,32,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10213,23,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10214	,30,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10215	,34,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10216,31,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10217,24,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10218,32,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10219	,38,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10220,44,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10221	,8,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10222	,49,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10223	,45,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10224,2,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10225	,45,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10226	,52,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10227,24,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10228	,41,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10229	,5,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10230,46,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10231,21,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10232	,49,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10233,19,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10234,28,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10235	,38,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10236,51,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10237,57,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10238	,7,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10239,30,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10240,47,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10241,40,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10242,30,Lạng Sơn,Đang điều trị,Việt Nam
+BN10243	,5,Lạng Sơn,Đang điều trị,Việt Nam
+BN10244	,23,Quảng Nam,Đang điều trị,Việt Nam
+BN10245	,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10246	,24,Bắc Giang,Đang điều trị,Việt Nam
+BN10247,26,Bắc Giang,Đang điều trị,Việt Nam
+BN10248,19,Bắc Giang,Đang điều trị,Việt Nam
+BN10249	,36,Bắc Giang,Đang điều trị,Việt Nam
+BN10250,51,Bắc Giang,Đang điều trị,Việt Nam
+BN10251,37,Bắc Giang,Đang điều trị,Việt Nam
+BN10252,50,Bắc Giang,Đang điều trị,Việt Nam
+BN10253	,76,Phú Thọ,Đang điều trị,Việt Nam
+BN10254	,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10255,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10256	,22,Bắc Giang,Đang điều trị,Việt Nam
+BN10257	,27,Bắc Giang,Đang điều trị,Việt Nam
+BN10258	,31,Bắc Giang,Đang điều trị,Việt Nam
+BN10259	,20,Bắc Giang,Đang điều trị,Việt Nam
+BN10260,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10261,25,Bắc Giang,Đang điều trị,Việt Nam
+BN10262	,21,Bắc Giang,Đang điều trị,Việt Nam
+BN10263	,65,Hà Nội,Đang điều trị,Việt Nam
+BN10264	,31,Bắc Giang,Đang điều trị,Việt Nam
+BN10265,22,Bắc Giang,Đang điều trị,Việt Nam
+BN10266	,30,Bắc Giang,Đang điều trị,Việt Nam
+BN10267,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10268	,11,Bắc Ninh,Đang điều trị,Việt Nam
+BN10269	,55,Bắc Giang,Đang điều trị,Việt Nam
+BN10270,31,Bắc Ninh,Đang điều trị,Việt Nam
+BN10271,11,Bắc Ninh,Đang điều trị,Việt Nam
+BN10272	,37,Bắc Giang,Đang điều trị,Việt Nam
+BN10273	,23,Bắc Giang,Đang điều trị,Việt Nam
+BN10274	,47,Bắc Ninh,Đang điều trị,Việt Nam
+BN10275,21,Bắc Ninh,Đang điều trị,Việt Nam
+BN10276	,15,Bắc Ninh,Đang điều trị,Việt Nam
+BN10277,40,Bắc Giang,Đang điều trị,Việt Nam
+BN10278	,39,Bắc Ninh,Đang điều trị,Việt Nam
+BN10279	,31,Bắc Giang,Đang điều trị,Việt Nam
+BN10280	,40,Bắc Ninh,Đang điều trị,Việt Nam
+BN10281,20,Bắc Ninh,Đang điều trị,Việt Nam
+BN10282	,38,Bắc Ninh,Đang điều trị,Việt Nam
+BN10283,33,Bắc Giang,Đang điều trị,Việt Nam
+BN10284	,37,Bắc Ninh,Đang điều trị,Việt Nam
+BN10285,38,Bắc Ninh,Đang điều trị,Việt Nam
+BN10286,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10287,37,Bắc Ninh,Đang điều trị,Việt Nam
+BN10288,30,Bắc Giang,Đang điều trị,Việt Nam
+BN10289,22,Bắc Ninh,Đang điều trị,Việt Nam
+BN10290	,22,Bắc Ninh,Đang điều trị,Việt Nam
+BN10291	,19,Bắc Ninh,Đang điều trị,Việt Nam
+BN10292	,21,Bắc Giang,Đang điều trị,Việt Nam
+BN10293	,18,Bắc Ninh,Đang điều trị,Việt Nam
+BN10294,18,Bắc Ninh,Đang điều trị,Việt Nam
+BN10295	,23,Bắc Ninh,Đang điều trị,Việt Nam
+BN10296	,34,Bắc Ninh,Đang điều trị,Việt Nam
+BN10297	,19,Bắc Ninh,Đang điều trị,Việt Nam
+BN10298,24,Bắc Ninh,Đang điều trị,Việt Nam
+BN10299,23,Bắc Ninh,Đang điều trị,Việt Nam
+BN10300,26,Bắc Ninh,Đang điều trị,Việt Nam
+BN10301,18,Bắc Ninh,Đang điều trị,Việt Nam
+BN10302,25,Bắc Giang,Đang điều trị,Việt Nam
+BN10303,18,Bắc Ninh,Đang điều trị,Việt Nam
+BN10304,5,Bắc Giang,Đang điều trị,Việt Nam
+BN10305,86,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10306,22,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10307,26,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10308,41,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10309	,38,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10310,39,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10311,44,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10312,32,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10313	,35,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10314	,38,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10315	,41,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10316,51,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10317,42,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10318	,30,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10319,49,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10320,33,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10321	,56,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10322,50,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10323,57,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10324,58,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10325,38,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10326	,58,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10327,38,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10328	,34,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10329,28,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10330,18,Bắc Ninh,Đang điều trị,Việt Nam
+BN10331	,17,Bắc Ninh,Đang điều trị,Việt Nam
+BN10332	,30,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10333,20,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10334,82,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10335	,9,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10336,25,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10337,28,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10338,33,Bắc Giang,Đang điều trị,Việt Nam
+BN10339,37,Bắc Giang,Đang điều trị,Việt Nam
+BN10340	,41,Bắc Giang,Đang điều trị,Việt Nam
+BN10342,32,Bắc Giang,Đang điều trị,Việt Nam
+BN10342	,56,Bắc Giang,Đang điều trị,Việt Nam
+BN10343,27,Tây Ninh,Đang điều trị,Việt Nam
+BN10344,31,Bắc Giang,Đang điều trị,Việt Nam
+BN10345,31,Bắc Giang,Đang điều trị,Việt Nam
+BN10346,41,Tây Ninh,Đang điều trị,Việt Nam
+BN10347	,35,Bắc Giang,Đang điều trị,Việt Nam
+BN10348,25,Bắc Giang,Đang điều trị,Việt Nam
+BN10349,21,Bắc Giang,Đang điều trị,Việt Nam
+BN10350,52,Bắc Giang,Đang điều trị,Việt Nam
+BN10351,33,Bắc Giang,Đang điều trị,Việt Nam
+BN10352,27,Bắc Giang,Đang điều trị,Việt Nam
+BN10353	,24,Bắc Giang,Đang điều trị,Việt Nam
+BN10354	,23,Bắc Giang,Đang điều trị,Việt Nam
+BN10355,39,Bắc Giang,Đang điều trị,Việt Nam
+BN10356,25,Bắc Giang,Đang điều trị,Việt Nam
+BN10357,6,Bắc Giang,Đang điều trị,Việt Nam
+BN10358,8,Bắc Giang,Đang điều trị,Việt Nam
+BN10359,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10360,14,Bắc Giang,Đang điều trị,Việt Nam
+BN10361,25,Bắc Giang,Đang điều trị,Việt Nam
+BN10362,19,Bắc Giang,Đang điều trị,Việt Nam
+BN10363,39,Bắc Giang,Đang điều trị,Việt Nam
+BN10364,40,Bắc Giang,Đang điều trị,Việt Nam
+BN10365,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10366,63,Bắc Giang,Đang điều trị,Việt Nam
+BN10367,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10368	,32,Bắc Ninh,Đang điều trị,Việt Nam
+BN10369,1,Bắc Ninh,Đang điều trị,Việt Nam
+BN10370,35,Bắc Giang,Đang điều trị,Việt Nam
+BN10371,6,Bắc Ninh,Đang điều trị,Việt Nam
+BN10372,32,Bắc Ninh,Đang điều trị,Việt Nam
+BN10373,32,Bắc Giang,Đang điều trị,Việt Nam
+BN10374,14,Bắc Giang,Đang điều trị,Việt Nam
+BN10375,22,Bắc Giang,Đang điều trị,Việt Nam
+BN10376	,41,Bắc Giang,Đang điều trị,Việt Nam
+BN10377,25,Bắc Giang,Đang điều trị,Việt Nam
+BN10378,20,Bắc Giang,Đang điều trị,Việt Nam
+BN10379	,40,Bắc Giang,Đang điều trị,Việt Nam
+BN10380,8,Bắc Giang,Đang điều trị,Việt Nam
+BN10381,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10382,23,Bắc Giang,Đang điều trị,Việt Nam
+BN10383,26,Bắc Giang,Đang điều trị,Việt Nam
+BN10384,37,Bắc Giang,Đang điều trị,Việt Nam
+BN10385	,22,Bắc Giang,Đang điều trị,Việt Nam
+BN10386	,22,Bắc Giang,Đang điều trị,Việt Nam
+BN10387,21,Bắc Giang,Đang điều trị,Việt Nam
+BN10388,40,Bắc Giang,Đang điều trị,Việt Nam
+BN10389,24,Bắc Giang,Đang điều trị,Việt Nam
+BN10390,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10391	,35,Bắc Giang,Đang điều trị,Việt Nam
+BN10392,3,Bắc Giang,Đang điều trị,Việt Nam
+BN10393,36,Bắc Giang,Đang điều trị,Việt Nam
+BN10394,32,Bắc Giang,Đang điều trị,Việt Nam
+BN10395,51,Bắc Giang,Đang điều trị,Việt Nam
+BN10396,3,Bắc Giang,Đang điều trị,Việt Nam
+BN10397,15,Bắc Giang,Đang điều trị,Việt Nam
+BN10398	,26,Bắc Giang,Đang điều trị,Việt Nam
+BN10399	,9,Bắc Giang,Đang điều trị,Việt Nam
+BN10400,5,Bắc Giang,Đang điều trị,Việt Nam
+BN10401,2,Bắc Giang,Đang điều trị,Việt Nam
+BN10402,46,Bắc Giang,Đang điều trị,Việt Nam
+BN10403,20,Bắc Giang,Đang điều trị,Việt Nam
+BN10404,2,Bắc Giang,Đang điều trị,Việt Nam
+BN10405,24,Bắc Giang,Đang điều trị,Việt Nam
+BN10406,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10407,31,Bắc Giang,Đang điều trị,Việt Nam
+BN10408,40,Hà Nội,Đang điều trị,Việt Nam
+BN10409	,37,Bắc Giang,Đang điều trị,Việt Nam
+BN10410,44,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10411,7,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10412,24,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10413	,42,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10414,44,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10415,49,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10416,74,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10417,9,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10418	,38,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10419	,22,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10420	,86,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10421,48,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10422,28,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10423	,28,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10424	,38,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10425,41,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10426,9,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10427,10,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10428,42,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10429	,17,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10430,69,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10431,53,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10432,30,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10433,49,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10434,9,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10435,26,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10436,32,Bình Dương,Đang điều trị,Việt Nam
+BN10437,66,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10438,67,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10439,47,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10440,46,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10441,21,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10442,18,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10443,13,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10444,50,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10445	,49,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10446,12,Bắc Giang,Đang điều trị,Việt Nam
+BN10447	,34,Bắc Giang,Đang điều trị,Việt Nam
+BN10448	,21,Bắc Giang,Đang điều trị,Việt Nam
+BN10449,41,Bắc Giang,Đang điều trị,Việt Nam
+BN10450,19,Bắc Giang,Đang điều trị,Việt Nam
+BN10451,43,Bắc Giang,Đang điều trị,Việt Nam
+BN10452,38,Bắc Giang,Đang điều trị,Việt Nam
+BN10453,26,Bắc Giang,Đang điều trị,Việt Nam
+BN10454,44,Bắc Giang,Đang điều trị,Việt Nam
+BN10455,37,Bắc Ninh,Đang điều trị,Việt Nam
+BN10456,31,Bắc Ninh,Đang điều trị,Việt Nam
+BN10457	,4,Bắc Ninh,Đang điều trị,Việt Nam
+BN10458	,18,Bắc Ninh,Đang điều trị,Việt Nam
+BN10459,39,Bắc Ninh,Đang điều trị,Việt Nam
+BN10460,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10461,35,Bắc Ninh,Đang điều trị,Việt Nam
+BN10462,38,Bắc Ninh,Đang điều trị,Việt Nam
+BN10463	,28,Bắc Ninh,Đang điều trị,Việt Nam
+BN10464,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10465,24,Bắc Ninh,Đang điều trị,Việt Nam
+BN10466,27,Bắc Ninh,Đang điều trị,Việt Nam
+BN10467,44,Bắc Ninh,Đang điều trị,Việt Nam
+BN10468,39,Bắc Ninh,Đang điều trị,Việt Nam
+BN10469	,24,Bắc Giang,Đang điều trị,Việt Nam
+BN10470,34,Bắc Ninh,Đang điều trị,Việt Nam
+BN10471,24,Bắc Giang,Đang điều trị,Việt Nam
+BN10472	,26,Bắc Ninh,Đang điều trị,Việt Nam
+BN10473	,37,Bắc Ninh,Đang điều trị,Việt Nam
+BN10474	,64,Bắc Giang,Đang điều trị,Việt Nam
+BN10475,35,Bắc Giang,Đang điều trị,Việt Nam
+BN10476,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10477,33,Bắc Giang,Đang điều trị,Việt Nam
+BN10478,40,Bắc Giang,Đang điều trị,Việt Nam
+BN10479	,27,Bắc Giang,Đang điều trị,Việt Nam
+BN10480,40,Bắc Giang,Đang điều trị,Việt Nam
+BN10481,31,Bắc Giang,Đang điều trị,Việt Nam
+BN10482	,27,Bắc Giang,Đang điều trị,Việt Nam
+BN10483	,36,Bắc Giang,Đang điều trị,Việt Nam
+BN10484	,25,Bắc Giang,Đang điều trị,Việt Nam
+BN10485,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10486,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10487,22,Bắc Giang,Đang điều trị,Việt Nam
+BN10488,17,Bắc Giang,Đang điều trị,Việt Nam
+BN10489,25,Bắc Giang,Đang điều trị,Việt Nam
+BN10490	,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10491	,61,Bắc Giang,Đang điều trị,Việt Nam
+BN10492,31,Bắc Giang,Đang điều trị,Việt Nam
+BN10493,42,Bắc Ninh,Đang điều trị,Việt Nam
+BN10494	,46,Bắc Ninh,Đang điều trị,Việt Nam
+BN10495,59,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10496,25,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10497,38,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10498	,5,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10499,7,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10500	,39,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10501,45,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10502	,43,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10503,32,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10504,51,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10505,47,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10506,51,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10507,27,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10508,29,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10509,34,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10510	,56,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10511,43,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10512,37,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10513	,51,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10514	,32,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10515,41,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10516,28,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10517	,29,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10518	,46,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10519,28,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10520	,45,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10521	,40,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10522,43,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10523,60,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10524,42,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10525,49,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10526,38,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10527,37,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10528,24,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10529	,51,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10530,6,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10531	,27,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10532	,36,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10533	,29,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10534	,30,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10535,50,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10536,12,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10537	,44,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10538	,49,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10539	,38,Tây Ninh,Đang điều trị,Việt Nam
+BN10540,8,Bắc Ninh,Đang điều trị,Việt Nam
+BN10541,40,Bắc Ninh,Đang điều trị,Việt Nam
+BN10542,19,Bắc Ninh,Đang điều trị,Việt Nam
+BN10543,20,Bắc Ninh,Đang điều trị,Việt Nam
+BN10544,40,Bắc Ninh,Đang điều trị,Việt Nam
+BN10545,32,Bắc Ninh,Đang điều trị,Việt Nam
+BN10546,9,Bắc Ninh,Đang điều trị,Việt Nam
+BN10547,34,Bắc Ninh,Đang điều trị,Việt Nam
+BN10548,55,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10549	,27,Bắc Ninh,Đang điều trị,Việt Nam
+BN10550	,50,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10551	,30,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10552,64,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10553,60,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10554,6,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10555,2,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10556	,31,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10557,74,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10558,32,Bắc Kạn,Đang điều trị,Việt Nam
+BN10559,25,Bắc Giang,Đang điều trị,Việt Nam
+BN10560,40,Bắc Giang,Đang điều trị,Việt Nam
+BN10561	,31,Bắc Giang,Đang điều trị,Việt Nam
+BN10562	,47,Bắc Giang,Đang điều trị,Việt Nam
+BN10563	,12,Bắc Giang,Đang điều trị,Việt Nam
+BN10564,51,Bắc Giang,Đang điều trị,Việt Nam
+BN10565	,25,Bắc Giang,Đang điều trị,Việt Nam
+BN10566,32,Bắc Giang,Đang điều trị,Việt Nam
+BN10567,23,Bắc Giang,Đang điều trị,Việt Nam
+BN10568,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10569,45,Bắc Giang,Đang điều trị,Việt Nam
+BN10570,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10571,38,Bắc Giang,Đang điều trị,Việt Nam
+BN10572,14,Bắc Giang,Đang điều trị,Việt Nam
+BN10573,40,Bắc Giang,Đang điều trị,Việt Nam
+BN10574,24,Bắc Giang,Đang điều trị,Việt Nam
+BN10575	,32,Bắc Giang,Đang điều trị,Việt Nam
+BN10576,26,Bắc Giang,Đang điều trị,Việt Nam
+BN10577,18,Bắc Giang,Đang điều trị,Việt Nam
+BN10578	,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10579,30,Bắc Giang,Đang điều trị,Việt Nam
+BN10580	,21,Bắc Giang,Đang điều trị,Việt Nam
+BN10581,24,Bắc Giang,Đang điều trị,Việt Nam
+BN10582,32,Bắc Giang,Đang điều trị,Việt Nam
+BN10583,53,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10584,26,Bình Dương,Đang điều trị,Việt Nam
+BN10585	,24,Bình Dương,Đang điều trị,Việt Nam
+BN10586,32,Bình Dương,Đang điều trị,Việt Nam
+BN10587,5,Bình Dương,Đang điều trị,Việt Nam
+BN10588	,23,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10589,31,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10590	,7,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10591,36,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10592,8,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10593,24,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10594,62,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10595,5,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10596	,31,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10597	,48,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10598	,52,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10599	,13,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10600,8,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10601	,45,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10602,29,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10603,53,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10604,3,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10605,40,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10606,8,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10607,6,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10608	,4,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10609,22,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10610,33,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10611,21,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10612,6,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10613,66,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10614,65,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10615,37,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10616	,75,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10617	,46,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10618,15,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10619,12,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10620,36,Tiền Giang,Đang điều trị,Việt Nam
+BN10621,46,Tiền Giang,Đang điều trị,Việt Nam
+BN10622	,29,Tiền Giang,Đang điều trị,Việt Nam
+BN10623	,61,Tiền Giang,Đang điều trị,Việt Nam
+BN10624,8,Tiền Giang,Đang điều trị,Việt Nam
+BN10625,4,Tiền Giang,Đang điều trị,Việt Nam
+BN10626,1,Tiền Giang,Đang điều trị,Việt Nam
+BN10627,19,Tiền Giang,Đang điều trị,Việt Nam
+BN10628,25,Tiền Giang,Đang điều trị,Việt Nam
+BN10629	,73,Tiền Giang,Đang điều trị,Việt Nam
+BN10630,47,Tiền Giang,Đang điều trị,Việt Nam
+BN10631	,37,Hà Tĩnh,Đang điều trị,Việt Nam
+BN10632,47,Bắc Giang,Đang điều trị,Việt Nam
+BN10633,25,Bắc Giang,Đang điều trị,Việt Nam
+BN10634,64,Bắc Giang,Đang điều trị,Việt Nam
+BN10635,33,Bắc Giang,Đang điều trị,Việt Nam
+BN10636	,32,Bắc Giang,Đang điều trị,Việt Nam
+BN10637,56,Bắc Giang,Đang điều trị,Việt Nam
+BN10638,37,Bắc Giang,Đang điều trị,Việt Nam
+BN10639	,67,Bắc Giang,Đang điều trị,Việt Nam
+BN10640,27,Bắc Giang,Đang điều trị,Việt Nam
+BN10641,12,Bắc Giang,Đang điều trị,Việt Nam
+BN10642,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10643,14,Bắc Giang,Đang điều trị,Việt Nam
+BN10644,33,Bắc Giang,Đang điều trị,Việt Nam
+BN10645	,43,Bắc Giang,Đang điều trị,Việt Nam
+BN10646,55,Bắc Giang,Đang điều trị,Việt Nam
+BN10647,34,Bắc Giang,Đang điều trị,Việt Nam
+BN10648	,34,Bắc Giang,Đang điều trị,Việt Nam
+BN10649,30,Bắc Giang,Đang điều trị,Việt Nam
+BN10650,42,Bắc Giang,Đang điều trị,Việt Nam
+BN10651,33,Bắc Giang,Đang điều trị,Việt Nam
+BN10652,34,Bắc Giang,Đang điều trị,Việt Nam
+BN10653,22,Bắc Giang,Đang điều trị,Việt Nam
+BN10654,30,Bắc Giang,Đang điều trị,Việt Nam
+BN10655	,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10656	,24,Bắc Giang,Đang điều trị,Việt Nam
+BN10657,37,Bắc Giang,Đang điều trị,Việt Nam
+BN10658,35,Bắc Giang,Đang điều trị,Việt Nam
+BN10659,42,Bắc Giang,Đang điều trị,Việt Nam
+BN10660	,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10661	,32,Bắc Giang,Đang điều trị,Việt Nam
+BN10662,38,Bắc Giang,Đang điều trị,Việt Nam
+BN10663,32,Bắc Giang,Đang điều trị,Việt Nam
+BN10664,27,Bắc Giang,Đang điều trị,Việt Nam
+BN10665,35,Bắc Giang,Đang điều trị,Việt Nam
+BN10666,20,Bắc Giang,Đang điều trị,Việt Nam
+BN10667,37,Bắc Giang,Đang điều trị,Việt Nam
+BN10668	,27,Bắc Giang,Đang điều trị,Việt Nam
+BN10669	,37,Bắc Giang,Đang điều trị,Việt Nam
+BN10670,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10671,32,Bắc Giang,Đang điều trị,Việt Nam
+BN10672,54,Hà Nội,Đang điều trị,Việt Nam
+BN10673,39,Bắc Giang,Đang điều trị,Việt Nam
+BN10674,30,Bắc Giang,Đang điều trị,Việt Nam
+BN10675,31,Bắc Giang,Đang điều trị,Việt Nam
+BN10676,25,Bắc Giang,Đang điều trị,Việt Nam
+BN10677,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10678	,23,Bắc Giang,Đang điều trị,Việt Nam
+BN10679,32,Bắc Giang,Đang điều trị,Việt Nam
+BN10680,23,Bắc Giang,Đang điều trị,Việt Nam
+BN10681,39,Bắc Giang,Đang điều trị,Việt Nam
+BN10682,30,Bắc Giang,Đang điều trị,Việt Nam
+BN10683	,40,Bắc Giang,Đang điều trị,Việt Nam
+BN10684	,38,Bắc Giang,Đang điều trị,Việt Nam
+BN10685,23,Bắc Giang,Đang điều trị,Việt Nam
+BN10686	,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10687,33,Bắc Giang,Đang điều trị,Việt Nam
+BN10688,56,Bắc Giang,Đang điều trị,Việt Nam
+BN10689,21,Bắc Giang,Đang điều trị,Việt Nam
+BN10690,43,Bắc Giang,Đang điều trị,Việt Nam
+BN10691	,29,Bắc Giang,Đang điều trị,Việt Nam
+BN10692,30,Bắc Giang,Đang điều trị,Việt Nam
+BN10693,13,Hà Nội,Đang điều trị,Việt Nam
+BN10694	,43,Bắc Giang,Đang điều trị,Việt Nam
+BN10695,31,Bắc Giang,Đang điều trị,Việt Nam
+BN10696,83,Bắc Giang,Đang điều trị,Việt Nam
+BN10697	,36,Bắc Giang,Đang điều trị,Việt Nam
+BN10698	,43,Bắc Giang,Đang điều trị,Việt Nam
+BN10699,28,Bắc Giang,Đang điều trị,Việt Nam
+BN10700,31,Bắc Giang,Đang điều trị,Việt Nam
+BN10701	,27,Bắc Giang,Đang điều trị,Việt Nam
+BN10702,49,Bắc Giang,Đang điều trị,Việt Nam
+BN10703,23,Bắc Giang,Đang điều trị,Việt Nam
+BN10704,6,Hà Nội,Đang điều trị,Việt Nam
+BN10705	,28,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10706	,25,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10707,30,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10708,32,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10709	,37,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10710,46,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10711	,62,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10712	,30,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10713,26,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10714	,33,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10715,27,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10716,42,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10717	,81,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10718,43,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10719,40,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10720,15,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10721,34,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10722,49,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10723	,52,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10724	,61,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10725,40,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10726	,54,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10727	,34,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10728,48,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10729	,37,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN10730,22,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9831	,43,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9832,15,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9833,53,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9834,78,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9835,80,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9836	,45,Hà Nội,Đang điều trị,Việt Nam
+BN9837,31,Bắc Giang,Đang điều trị,Việt Nam
+BN9838,19,Bắc Giang,Đang điều trị,Việt Nam
+BN9839,30,Bắc Giang,Đang điều trị,Việt Nam
+BN9840,1,Bắc Giang,Đang điều trị,Việt Nam
+BN9841,26,Bắc Giang,Đang điều trị,Việt Nam
+BN9842	,68,Hà Nội,Đang điều trị,Việt Nam
+BN9843,23,Bắc Giang,Đang điều trị,Việt Nam
+BN9844,31,Bắc Giang,Đang điều trị,Việt Nam
+BN9845,9,Bắc Giang,Đang điều trị,Việt Nam
+BN9846,34,Bắc Giang,Đang điều trị,Việt Nam
+BN9847,49,Hà Nội,Đang điều trị,Việt Nam
+BN9848,62,Bắc Giang,Đang điều trị,Việt Nam
+BN9849,36,Hà Nội,Đang điều trị,Việt Nam
+BN9850,440,Hà Tĩnh,Đang điều trị,Việt Nam
+BN9851,53,Bắc Giang,Đang điều trị,Việt Nam
+BN9852,33,Hà Tĩnh,Đang điều trị,Việt Nam
+BN9853,61,Tây Ninh,Đang điều trị,Việt Nam
+BN9854	,31,Bắc Giang,Đang điều trị,Việt Nam
+BN9855,49,Bắc Ninh,Đang điều trị,Việt Nam
+BN9856,27,Bắc Ninh,Đang điều trị,Việt Nam
+BN9857,24,Bắc Ninh,Đang điều trị,Việt Nam
+BN9858,45,Bắc Giang,Đang điều trị,Việt Nam
+BN9859,19,Bắc Ninh,Đang điều trị,Việt Nam
+BN9860	,22,Bắc Ninh,Đang điều trị,Việt Nam
+BN9861	,26,Bắc Ninh,Đang điều trị,Việt Nam
+BN9862,34,Bắc Ninh,Đang điều trị,Việt Nam
+BN9863,38,Bắc Giang,Đang điều trị,Việt Nam
+BN9864	,39,Bắc Giang,Đang điều trị,Việt Nam
+BN9865	,38,Bắc Giang,Đang điều trị,Việt Nam
+BN9866,22,Bắc Giang,Đang điều trị,Việt Nam
+BN9867,6,Bắc Giang,Đang điều trị,Việt Nam
+BN9868,45,Bắc Giang,Đang điều trị,Việt Nam
+BN9869,19,Bắc Giang,Đang điều trị,Việt Nam
+BN9870,21,Bắc Giang,Đang điều trị,Việt Nam
+BN9871,10,Hà Tĩnh,Đang điều trị,Việt Nam
+BN9872,19,Bắc Giang,Đang điều trị,Việt Nam
+BN9873,10,Hà Tĩnh,Đang điều trị,Việt Nam
+BN9874,21,Bắc Giang,Đang điều trị,Việt Nam
+BN9875,34,Bắc Giang,Đang điều trị,Việt Nam
+BN9876,39,Bắc Giang,Đang điều trị,Việt Nam
+BN9877,29,Bắc Giang,Đang điều trị,Việt Nam
+BN9878,21,Bắc Giang,Đang điều trị,Việt Nam
+BN9879,24,Bắc Giang,Đang điều trị,Việt Nam
+BN9880,27,Bắc Giang,Đang điều trị,Việt Nam
+BN9881,34,Bắc Giang,Đang điều trị,Việt Nam
+BN9882	,24,Bắc Giang,Đang điều trị,Việt Nam
+BN9883	,33,Bắc Giang,Đang điều trị,Việt Nam
+BN9884,25,Bắc Ninh,Đang điều trị,Việt Nam
+BN9885,30,Bắc Giang,Đang điều trị,Việt Nam
+BN9886,36,Bắc Giang,Đang điều trị,Việt Nam
+BN9887	,21,Bắc Giang,Đang điều trị,Việt Nam
+BN9888,39,Bắc Giang,Đang điều trị,Việt Nam
+BN9889,23,Bắc Giang,Đang điều trị,Việt Nam
+BN9890,19,Bắc Giang,Đang điều trị,Việt Nam
+BN9891,23,Bắc Giang,Đang điều trị,Việt Nam
+BN9892,26,Bắc Giang,Đang điều trị,Việt Nam
+BN9893,40,Bắc Giang,Đang điều trị,Việt Nam
+BN9894	,40,Bắc Giang,Đang điều trị,Việt Nam
+BN9895,22,Bắc Giang,Đang điều trị,Việt Nam
+BN9896,33,Bắc Giang,Đang điều trị,Việt Nam
+BN9897,57,Bắc Giang,Đang điều trị,Việt Nam
+BN9898,24,Bắc Giang,Đang điều trị,Việt Nam
+BN9899,23,Bắc Giang,Đang điều trị,Việt Nam
+BN9900,45,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9901,48,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9902,48,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9903,40,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9904,40,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9905,32,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9906,59,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9907,9,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9908,28,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9909,21,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9910,49,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9911,51,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9912,21,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9913	,55,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9914,45,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9915,46,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9916,28,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9917,40,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9918	,27,Bắc Giang,Đang điều trị,Việt Nam
+BN9919,21,Bắc Giang,Đang điều trị,Việt Nam
+BN9920,22,Bắc Giang,Đang điều trị,Việt Nam
+BN9921,30,Bắc Ninh,Đang điều trị,Việt Nam
+BN9922,20,Bắc Ninh,Đang điều trị,Việt Nam
+BN9923,46,Bắc Ninh,Đang điều trị,Việt Nam
+BN9924,22,Bắc Ninh,Đang điều trị,Việt Nam
+BN9925,39,Bắc Ninh,Đang điều trị,Việt Nam
+BN9926,27,Bắc Giang,Đang điều trị,Việt Nam
+BN9927,32,Bắc Ninh,Đang điều trị,Việt Nam
+BN9928	,21,Bắc Ninh,Đang điều trị,Việt Nam
+BN9929,3,Hà Nội,Đang điều trị,Việt Nam
+BN9930,27,Bắc Ninh,Đang điều trị,Việt Nam
+BN9931,69,Bắc Giang,Đang điều trị,Việt Nam
+BN9932	,19,Bắc Ninh,Đang điều trị,Việt Nam
+BN9933,30,Bắc Ninh,Đang điều trị,Việt Nam
+BN9934,26,Bắc Giang,Đang điều trị,Việt Nam
+BN9935,30,Bắc Ninh,Đang điều trị,Việt Nam
+BN9936	,31,Bắc Giang,Đang điều trị,Việt Nam
+BN9937,26,Bắc Giang,Đang điều trị,Việt Nam
+BN9938,7,Bắc Giang,Đang điều trị,Việt Nam
+BN9939,37,Bắc Giang,Đang điều trị,Việt Nam
+BN9940	,31,Bắc Giang,Đang điều trị,Việt Nam
+BN9941,35,Bắc Giang,Đang điều trị,Việt Nam
+BN9942,30,Bắc Giang,Đang điều trị,Việt Nam
+BN9943,38,Bắc Giang,Đang điều trị,Việt Nam
+BN9944	,40,Bắc Giang,Đang điều trị,Việt Nam
+BN9945,34,Bắc Ninh,Đang điều trị,Việt Nam
+BN9946,35,Bắc Ninh,Đang điều trị,Việt Nam
+BN9947	,29,Bắc Ninh,Đang điều trị,Việt Nam
+BN9948,59,Bắc Ninh,Đang điều trị,Việt Nam
+BN9949	,32,Bắc Giang,Đang điều trị,Việt Nam
+BN9950	,24,Bắc Giang,Đang điều trị,Việt Nam
+BN9951	,28,Bắc Giang,Đang điều trị,Việt Nam
+BN9952,26,Bắc Giang,Đang điều trị,Việt Nam
+BN9953	,4,Bắc Giang,Đang điều trị,Việt Nam
+BN9954,7,Bắc Ninh,Đang điều trị,Việt Nam
+BN9955,27,Bắc Giang,Đang điều trị,Việt Nam
+BN9956,25,Bắc Giang,Đang điều trị,Việt Nam
+BN9957,33,Bắc Giang,Đang điều trị,Việt Nam
+BN9958,25,Bắc Giang,Đang điều trị,Việt Nam
+BN9959	,30,Bắc Giang,Đang điều trị,Việt Nam
+BN9960	,36,Bắc Giang,Đang điều trị,Việt Nam
+BN9961,30,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9962,22,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9963,31,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9964,26,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9965,27,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9966,28,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9967,38,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9968,47,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9969	,48,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9970,35,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9971,60,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9972,26,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9973,28,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9974,26,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9975,17,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9976,17,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9977,65,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9978,62,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9979,12,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9980,27,Hồ Chí Minh,Đang điều trị,Việt Nam
+BN9981	,19,Lạng Sơn,Đang điều trị,Việt Nam
+BN9982,32,Bắc Giang,Đang điều trị,Việt Nam
+BN9983,25,Bắc Ninh,Đang điều trị,Việt Nam
+BN9984,27,Bắc Ninh,Đang điều trị,Việt Nam
+BN9985,52,Bắc Ninh,Đang điều trị,Việt Nam
+BN9986,26,Bắc Ninh,Đang điều trị,Việt Nam
+BN9987,26,Bắc Ninh,Đang điều trị,Việt Nam
+BN9988,2,Bắc Ninh,Đang điều trị,Việt Nam
+BN9989,32,Bắc Ninh,Đang điều trị,Việt Nam
+BN9990,20,Bắc Ninh,Đang điều trị,Việt Nam
+BN9991,26,Bắc Ninh,Đang điều trị,Việt Nam
+BN9992,1,Bắc Giang,Đang điều trị,Việt Nam
+BN9993	,29,Bắc Giang,Đang điều trị,Việt Nam
+BN9994,46,Bắc Giang,Đang điều trị,Việt Nam
+BN9995,21,Bắc Giang,Đang điều trị,Việt Nam
+BN9996	,35,Bắc Giang,Đang điều trị,Việt Nam
+BN9997	,9,Bắc Giang,Đang điều trị,Việt Nam
+BN9998,51,Bắc Giang,Đang điều trị,Việt Nam
+BN9999,36,Bắc Giang,Đang điều trị,Việt Nam
