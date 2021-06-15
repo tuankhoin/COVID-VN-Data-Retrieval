@@ -31,7 +31,7 @@ class PatientSpider(scrapy.Spider):
         df_out['Patient'] = df_out['Patient'].str[2:].replace({',':'', ' ':'', 'B':'','N':''}, regex=True)
         # fix bugs
         df_out.loc[df_out['Patient'] == '1372)', 'Patient'] = '1372'
-        df_out.loc[df_out['Patient'] == '92859285', 'Patient'] = '92859285'
+        df_out.loc[df_out['Patient'] == '92859285', 'Patient'] = '9285'
         df_out['Patient'] = pd.to_numeric(df_out['Patient'])
         df_out = df_out.sort_values('Patient', ascending = False)
         #print(df_out.dtypes)
